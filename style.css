@@ -41,7 +41,11 @@ h1 {
 	
 #headshot-content {
 	position: relative;
+	padding: 10px;
+	}
+	
+#headshot-content span {
+	position: absolute;
 	bottom: 0;
 	left: 0;
-	padding: 10px;
 	}
