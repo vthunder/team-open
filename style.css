@@ -2,6 +2,14 @@ p, li, td {
 	font-family: 'Trykker', serif;
 	}
 
+h2 {
+	font-family: 'Trykker', serif;
+	}
+	
+h3 {
+	font-family: 'Trykker', serif;
+	}
+
 h1 {
 	text-indent: -9999px;
 	background: url(/images/teamopen_logo.png) no-repeat 0 0;
