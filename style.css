@@ -3,24 +3,19 @@ body {
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
-	}
-
-p, li, td {
 	font-family: 'Trykker', serif;
 	color: #FEFCFF;
+	}
+	
+body a {
+	color: #FEFCFF;
+	text-decoration:underline;
 	}
 
 h2 {
-	font-family: 'Trykker', serif;
-	color: #FEFCFF;
 	text-align: right;
 	}
 	
-h3 {
-	font-family: 'Trykker', serif;
-	color: #FEFCFF;
-	}
-
 h1 {
 	text-indent: -9999px;
 	background: url(/images/teamopen_logo.png) no-repeat 0 0;
