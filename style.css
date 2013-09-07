@@ -28,3 +28,10 @@ h1 {
 	height: 500px;
 	}
 	
+#headshot-content {
+	width: 300px;
+	height: 500px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	}
