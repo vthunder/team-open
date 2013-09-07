@@ -1,3 +1,7 @@
+body {
+	background-color: #0000FF;
+	}
+
 p, li, td {
 	font-family: 'Trykker', serif;
 	}
@@ -13,8 +17,8 @@ h3 {
 h1 {
 	text-indent: -9999px;
 	background: url(/images/teamopen_logo.png) no-repeat 0 0;
-	width: 428px;
-	height: 195px;
+	width: 500px;
+	height: 200px;
 	margin-left: auto;
 	margin-right: auto;
 	}
