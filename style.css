@@ -53,6 +53,7 @@ h1 {
 .twitter {
 /*	text-decoration: none;
     color: transparent; */
+	position:relative;
 	text-indent: -9999px;
 	border-radius: 50%;
 	width: 100px;
@@ -66,9 +67,18 @@ h1 {
 	vertical-align: middle;
 	}
 
+.twittertext {
+	position: absolute;
+	top: 50%;
+	height: 33px;
+	margin-top: -33px;
+	}
+
+/*
 .twitter a {
 	text-decoration: none;
 	}
+*/
 
 .twitter:hover {
     background-position: -100px 0px;
