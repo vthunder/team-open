@@ -51,7 +51,7 @@ h1 {
 */
 
 .twitter {
-    text-decoration: none;
+    color: transparent;
 	border-radius: 50%;
 	width: 100px;
 	height: 100px;
