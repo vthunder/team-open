@@ -61,8 +61,9 @@ h1 {
 	background-image: url(/images/twitter.png);
 	background-repeat: no-repeat;
 	background-position: 0px 0px;
+	text-align: center;
+	vertical-align: middle;
 	}
-
 
 .twitter a {
 	text-decoration: none;
@@ -70,4 +71,5 @@ h1 {
 
 .twitter:hover {
     background-position: -100px 0px;
+	color: #FEFCFF;
 	}
