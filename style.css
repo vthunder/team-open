@@ -1,4 +1,4 @@
-body {
+/*body {
 	background-color: #0000FF;
 	width: 500px;
 	margin-left: auto;
@@ -6,7 +6,21 @@ body {
 	font-family: 'Trykker', serif;
 	color: #FEFCFF;
 	}
+*/
+
+body {
+	background-color: #808080;
+	font-family: 'Trykker', serif;
+	color: #FEFCFF;
+	}
 	
+middle {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFA500;
+	}
+
 body a {
 	color: #FEFCFF;
 	}
