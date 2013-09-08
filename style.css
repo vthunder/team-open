@@ -74,6 +74,7 @@ h1 {
 	width: 114px;
 	height: 100px;
 	margin: 4px;
+	vertical-align: middle;
 	background-repeat: no-repeat;
 	background-position: 0px 0px;
 	text-align: center;
