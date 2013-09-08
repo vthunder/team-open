@@ -83,8 +83,8 @@ h1 {
 .hearttext {
 	position: absolute;
 	top: 50%;
-	height: 36px;
-	margin-top: -18px;
+	height: 18px;
+	margin-top: -9px;
 	}
 
 .heart:hover {
