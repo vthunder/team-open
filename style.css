@@ -53,8 +53,8 @@ h1 {
 .twitter {
     text-decoration: none;
 	border-radius: 50%;
-	width: 100px;
-	height: 100px;
+	width: 400px;
+	height: 400px;
 	margin: 12px;
 	border: 9px solid #FEFCFF;
 	background-image: url(/images/twitter.png);
