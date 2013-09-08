@@ -62,6 +62,6 @@ h1 {
 	background-position: 0px 0px;
 	}
 
-.twitter a {
+.twitter:hover {
     background-position: 100px 0px;
 	}
