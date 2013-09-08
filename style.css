@@ -58,7 +58,8 @@ h1 {
 	height: 100px;
 	margin: 12px;
 	border: 9px solid #FEFCFF;
-	background-image: url(/images/twitter.png) no-repeat;
+	background-repeat: no-repeat;
+	background-image: url(/images/twitter.png);
 	background-position: center center;
 	}
 
