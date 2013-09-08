@@ -15,10 +15,12 @@ body {
 	}
 	
 #middle {
-	width: 500px;
+	width: 520px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #CD4E0E;
+	padding-left: 10px;
+	padding-right: 10px;
 	}
 
 body a {
