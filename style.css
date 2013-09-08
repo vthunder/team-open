@@ -51,6 +51,7 @@ h1 {
 */
 
 .twitter {
+	text-decoration: none;
     color: transparent;
 	border-radius: 50%;
 	width: 100px;
@@ -62,9 +63,11 @@ h1 {
 	background-position: 0px 0px;
 	}
 
+/*
 .twitter:a {
 	text-decoration: none;
 	}
+*/
 
 .twitter:hover {
     background-position: -100px 0px;
