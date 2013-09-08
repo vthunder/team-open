@@ -9,7 +9,7 @@ body {
 	
 body a {
 	color: #FEFCFF;
-	text-decoration:underline;
+	text-decoration: underline;
 	}
 
 h2 {
@@ -60,6 +60,10 @@ h1 {
 	background-image: url(/images/twitter.png);
 	background-repeat: no-repeat;
 	background-position: 0px 0px;
+	}
+
+.twitter:a {
+	text-decoration: none;
 	}
 
 .twitter:hover {
