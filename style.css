@@ -9,7 +9,6 @@ body {
 	
 body a {
 	color: #FEFCFF;
-/*	text-decoration: underline; */
 	}
 
 h2 {
@@ -41,18 +40,8 @@ h1 {
 	padding: 10px;
 	}
 
-/*	
-.twitter .facebook .donate .newsletter {
-	border-radius: 50%;
-	width: 100px;
-	height: 100px;
-	margin: 12px;
-	}
-*/
-
-.twitter {
-/*	text-decoration: none;
-    color: transparent; */
+.circle {
+	float: left;
 	position:relative;
 	text-indent: -9999px;
 	border-radius: 50%;
@@ -60,29 +49,20 @@ h1 {
 	height: 100px;
 	margin: 12px;
 	border: 9px solid #FEFCFF;
-	background-image: url(/images/twitter.png);
 	background-repeat: no-repeat;
 	background-position: 0px 0px;
 	text-align: center;
-	vertical-align: middle;
 	}
 
-.twittertext {
+.circletext {
 	position: absolute;
 	top: 50%;
 	height: 36px;
 	margin-top: -18px;
 	}
 
-/*
-.twitter a {
-	text-decoration: none;
-	}
-*/
-
-.twitter:hover {
+.circle:hover {
     background-position: -100px 0px;
-/*	color: #FEFCFF; */
 	text-indent: 0px;
 	text-decoration: none;
 	}
