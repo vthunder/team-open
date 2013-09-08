@@ -40,3 +40,15 @@ h1 {
 	bottom: 0;
 	padding: 10px;
 	}
+	
+.twitter .facebook .donate .newsletter {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	margin: 12px;
+	}
+
+.twitter {
+	background-image: url(/images/twitter.png);
+	background-position: center center;
+	}
