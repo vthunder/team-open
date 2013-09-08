@@ -63,11 +63,10 @@ h1 {
 	background-position: 0px 0px;
 	}
 
-/*
-.twitter:a {
+
+.twitter a {
 	text-decoration: none;
 	}
-*/
 
 .twitter:hover {
     background-position: -100px 0px;
